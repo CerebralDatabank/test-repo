@@ -2,3 +2,7 @@ Test Text
 Hello World
 Edit made via pull request
 Added with pull request that is associated with an issue
+Yet another line
+Another line, added via suggestion on pull request
+More lines
+And more lines
