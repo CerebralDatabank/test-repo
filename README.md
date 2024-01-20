@@ -6,4 +6,4 @@ A test line
 
 SVG Data URI Test:
 
-![NEW](data:image/svg+xml,<svg width="200" height="200" viewBox="0 0 200 200"><circle cx="100" cy="100" r="50" fill="#1E90FF"/></svg>)
+![NEW](data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200"><circle cx="100" cy="100" r="50" fill="#1E90FF"/></svg>)
