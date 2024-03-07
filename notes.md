@@ -16,3 +16,6 @@
 > [!NOTE]  
 > Note without two spaces after title
 > Another line (no two spaces on previous line)
+
+> Ordinary blockquote  
+> Another line
