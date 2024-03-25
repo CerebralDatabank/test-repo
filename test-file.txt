@@ -20,3 +20,4 @@ Yet another line!
 And another...
 Test line for PR
 Another line!
+Test line for GitKraken Cloud Patch
