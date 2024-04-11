@@ -17,3 +17,7 @@ Another line
 
 Two lines with
 only newline separation
+
+Relative link: <test-folder/another-test-file.txt>
+
+Relative named link: [the link](test-folder/another-test-file.txt)
